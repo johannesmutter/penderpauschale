@@ -19,7 +19,7 @@ Ein präziser und benutzerfreundlicher Rechner für die deutsche Pendlerpauschal
 ## 🛠️ Installation & Setup
 
 ### Voraussetzungen
-- Node.js 18+ 
+- Node.js 20+ 
 - npm oder pnpm
 
 ### Lokale Entwicklung

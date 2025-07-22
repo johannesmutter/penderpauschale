@@ -1115,10 +1115,28 @@
 <!-- Footer with Disclaimer -->
 <footer class="bg-muted border-t pt-16">
 	<div class="container mx-auto px-6 py-8">
-		<div class="max-w-4xl mx-auto">
-			<h3 class="text-sm font-bold text-muted-foreground mb-4 uppercase">Rechtlicher Hinweis</h3>
-			<div class="text-xs text-muted-foreground space-y-3 leading-relaxed">
-				<p>Alle durch diesen Online-Rechner vermittelten Informationen werden mit größter Sorgfalt erstellt.</p>
+		<div class="max-w-4xl mx-auto space-y-8">
+			<!-- Open Source Section -->
+			<div>
+				<h3 class="text-sm font-bold text-muted-foreground mb-4 uppercase">Hinweise</h3>
+				<p class="text-xs text-muted-foreground leading-relaxed">
+					<span class="uppercase tracking-wide">Open Source — </span> Dieser Pendlerpauschale-Rechner ist ein Open-Source-Projekt und steht der Gemeinschaft frei zur Verfügung. 
+					Der vollständige Quellcode, Dokumentation und Beitragsmöglichkeiten finden Sie auf 
+					<a href="https://github.com/johannesmutter/penderpauschale" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">GitHub</a>.
+				</p>
+			</div>
+
+			<!-- Privacy Section -->
+			<div>
+				<p class="text-xs text-muted-foreground leading-relaxed">
+					<span class="uppercase tracking-wide">Datenschutz — </span> Alle Berechnungen erfolgen lokal in Ihrem Browser. Es werden keine persönlichen Daten gespeichert, 
+					analysiert oder an Dritte übertragen. Diese Anwendung verwendet keine Cookies und ist vollständig privatsphäre-freundlich.
+				</p>
+			</div>
+
+			<!-- Legal Disclaimer -->
+			<div class="text-xs text-muted-foreground leading-relaxed">
+				<p><span class="uppercase tracking-wide">Rechtliches — </span> Alle durch diesen Online-Rechner vermittelten Informationen werden mit größter Sorgfalt erstellt.</p>
 				<p>Trotz sorgfältiger Recherche können die Informationen unvollständig und/oder zeitlich oder inhaltlich überholt sein.</p>
 				<p>Darüber hinaus werden in einigen Fällen in der Realität komplexere Sachverhalte teilweise vereinfachend oder abstrahierend dargestellt, um dem Nutzer die Eingabe zu erleichtern und eine schnelle Informationsgewinnung in Form einer Ersteinschätzung zu ermöglichen. Diese Informationsverarbeitung kann dazu führen, dass die durch den Online-Rechner vermittelten Informationen im Vergleich zu einer exakten Analyse durch einen Fachmann ungenau sind.</p>
 				<p>Die Ergebnisse dieses Online-Rechners dienen ausschließlich der unverbindlichen Ersteinschätzung und ersetzen in keinem Fall eine persönliche Beratung durch einen Steuerberater oder sonstigen Experten. Für steuerliche Angelegenheiten wenden Sie sich bitte an einen qualifizierten Steuerberater.</p>
