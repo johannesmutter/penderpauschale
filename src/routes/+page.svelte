@@ -581,7 +581,7 @@
 	<header class="border-b bg-muted">
 		<div class="container mx-auto px-6 py-8">
 										<div class="text-center">
-								<h1 class="text-2xl font-bold tracking-tight uppercase">Pendlerpauschale Rechner</h1>
+								<h1 class="text-2xl font-bold tracking-tight uppercase">{transportation_mode === 'car' ? '🚗' : transportation_mode === 'public_transport' ? '🚌' : '🚲'} Pendlerpauschale Rechner</h1>
 								<div class="mt-2">
 									<p class="text-muted-foreground">Berechnen Sie schnell und einfach Ihre steuerlich absetzbaren Fahrtkosten</p>
 									
