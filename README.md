@@ -3,7 +3,6 @@
 Ein präziser und benutzerfreundlicher Rechner für die deutsche Pendlerpauschale (Entfernungspauschale). Berechnen Sie schnell und einfach Ihre steuerlich absetzbaren Fahrtkosten für die Steuererklärung.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://pendler-pauschale.de)
-[![GitHub](https://img.shields.io/github/license/johannesmutter/penderpauschale)](LICENSE)
 [![Svelte](https://img.shields.io/badge/Svelte-5-orange)](https://svelte.dev)
 
 ## 🚀 Features
